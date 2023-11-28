@@ -1,0 +1,619 @@
+﻿"Trait (ontology term label)","Trait Identifier (ontology ID)","Trait Category","Number of Related PGS"
+"Abdominal Aortic Aneurysm","EFO_0004214: http://www.ebi.ac.uk/efo/EFO_0004214","Cardiovascular disease",3
+"Abdominal pain","HP_0002027: http://purl.obolibrary.org/obo/HP_0002027","Other trait",3
+"Abnormal circulating lipid concentration","HP_0003119: http://purl.obolibrary.org/obo/HP_0003119","Other trait",2
+"Abnormal EKG","HP_0003115: http://purl.obolibrary.org/obo/HP_0003115","Other trait",1
+"ACPA-negative rheumatoid arthritis","EFO_0009460: http://www.ebi.ac.uk/efo/EFO_0009460","Immune system disorder",1
+"ACPA-positive rheumatoid arthritis","EFO_0009459: http://www.ebi.ac.uk/efo/EFO_0009459","Immune system disorder",1
+"acute lymphoblastic leukemia","EFO_0000220: http://www.ebi.ac.uk/efo/EFO_0000220",Cancer,1
+"addictive behaviour","EFO_0004347: http://www.ebi.ac.uk/efo/EFO_0004347","Biological process",1
+"adipose tissue measurement","EFO_0004764: http://www.ebi.ac.uk/efo/EFO_0004764","Other measurement",2
+"age at death","EFO_0005056: http://www.ebi.ac.uk/efo/EFO_0005056","Other measurement",2
+"age at diagnosis","EFO_0004918: http://www.ebi.ac.uk/efo/EFO_0004918","Other measurement",2
+"age at first birth measurement","EFO_0009101: http://www.ebi.ac.uk/efo/EFO_0009101","Other measurement",3
+"age at first sexual intercourse measurement","EFO_0009749: http://www.ebi.ac.uk/efo/EFO_0009749","Other measurement",5
+"age at initiation of smoking","EFO_0021784: http://www.ebi.ac.uk/efo/EFO_0021784","Other measurement",4
+"age at menarche","EFO_0004703: http://www.ebi.ac.uk/efo/EFO_0004703","Other measurement",16
+"age-related hearing impairment","EFO_0005782: http://www.ebi.ac.uk/efo/EFO_0005782","Neurological disorder",2
+"age-related macular degeneration","EFO_0001365: http://www.ebi.ac.uk/efo/EFO_0001365","Neurological disorder",3
+"alcohol consumption measurement","EFO_0007878: http://www.ebi.ac.uk/efo/EFO_0007878","Other measurement",29
+"alcohol dependence","MONDO_0007079: http://purl.obolibrary.org/obo/MONDO_0007079","Neurological disorder",2
+"alcohol dependence measurement","EFO_0007835: http://www.ebi.ac.uk/efo/EFO_0007835","Other measurement",2
+"alcohol drinking","EFO_0004329: http://www.ebi.ac.uk/efo/EFO_0004329","Biological process",7
+"alcoholic liver cirrhosis","EFO_1000802: http://www.ebi.ac.uk/efo/EFO_1000802","CancerDigestive system disorder",2
+"alkaline phosphatase measurement","EFO_0004533: http://www.ebi.ac.uk/efo/EFO_0004533","Liver enzyme measurement",5
+"allergic disease","MONDO_0005271: http://purl.obolibrary.org/obo/MONDO_0005271","Immune system disorder",14
+"allergic rhinitis","EFO_0005854: http://www.ebi.ac.uk/efo/EFO_0005854","Immune system disorder",1
+"Alzheimer disease","MONDO_0004975: http://purl.obolibrary.org/obo/MONDO_0004975","Neurological disorder",26
+"anal polyp","MONDO_0060766: http://purl.obolibrary.org/obo/MONDO_0060766","Digestive system disorder",2
+anemia,"MONDO_0002280: http://purl.obolibrary.org/obo/MONDO_0002280","Other disease",1
+"angina pectoris","EFO_0003913: http://www.ebi.ac.uk/efo/EFO_0003913","Other trait",4
+"ankylosing spondylitis","EFO_0003898: http://www.ebi.ac.uk/efo/EFO_0003898","Immune system disorder",9
+"anomaly of puberty or/and menstrual cycle","MONDO_0015860: http://purl.obolibrary.org/obo/MONDO_0015860","Other disease",1
+"anthropometric measurement","EFO_0004302: http://www.ebi.ac.uk/efo/EFO_0004302","Other measurement",6
+"anti-Epstein Barr virus antibody measurement","EFO_0009273: http://www.ebi.ac.uk/efo/EFO_0009273","Other measurement",1
+"anxiety measurement","EFO_0009863: http://www.ebi.ac.uk/efo/EFO_0009863","Other measurement",1
+"aortic measurement","EFO_0020865: http://www.ebi.ac.uk/efo/EFO_0020865","Cardiovascular measurement",2
+"aortic valve disease","EFO_0009531: http://www.ebi.ac.uk/efo/EFO_0009531","Cardiovascular disease",1
+"APOE carrier status","EFO_0007659: http://www.ebi.ac.uk/efo/EFO_0007659","Other measurement",1
+"apolipoprotein A 1 measurement","EFO_0004614: http://www.ebi.ac.uk/efo/EFO_0004614","Cardiovascular measurementInflammatory measurementLipid or lipoprotein measurement",3
+"apolipoprotein A-IV measurement","EFO_0007848: http://www.ebi.ac.uk/efo/EFO_0007848","Lipid or lipoprotein measurement",1
+"apolipoprotein B measurement","EFO_0004615: http://www.ebi.ac.uk/efo/EFO_0004615","Lipid or lipoprotein measurement",4
+appendectomy,"EFO_0600086: http://www.ebi.ac.uk/efo/EFO_0600086","Other trait",1
+appendicitis,"EFO_0007149: http://www.ebi.ac.uk/efo/EFO_0007149","Digestive system disorderImmune system disorder",2
+"arterial stiffness measurement","EFO_0004517: http://www.ebi.ac.uk/efo/EFO_0004517","Cardiovascular measurement",2
+arthritis,"EFO_0005856: http://www.ebi.ac.uk/efo/EFO_0005856","Other disease",1
+Arthropathy,"HP_0003040: http://purl.obolibrary.org/obo/HP_0003040","Other trait",3
+"aspartate aminotransferase measurement","EFO_0004736: http://www.ebi.ac.uk/efo/EFO_0004736","Liver enzyme measurement",6
+"aspartate aminotransferase to alanine aminotransferase ratio","EFO_0010934: http://www.ebi.ac.uk/efo/EFO_0010934","Other measurement",1
+"aspirin use measurement","EFO_0007013: http://www.ebi.ac.uk/efo/EFO_0007013","Other measurement",2
+asthma,"MONDO_0004979: http://purl.obolibrary.org/obo/MONDO_0004979","Other disease",23
+"atopic eczema","EFO_0000274: http://www.ebi.ac.uk/efo/EFO_0000274","Immune system disorder",4
+"atrial fibrillation","EFO_0000275: http://www.ebi.ac.uk/efo/EFO_0000275","Cardiovascular disease",16
+"atrial flutter","EFO_0003911: http://www.ebi.ac.uk/efo/EFO_0003911","Cardiovascular disease",4
+"attention deficit hyperactivity disorder","EFO_0003888: http://www.ebi.ac.uk/efo/EFO_0003888","Neurological disorder",2
+"autism spectrum disorder","EFO_0003756: http://www.ebi.ac.uk/efo/EFO_0003756","Neurological disorder",2
+"autoimmune disease","EFO_0005140: http://www.ebi.ac.uk/efo/EFO_0005140","Immune system disorder",9
+"balding measurement","EFO_0007825: http://www.ebi.ac.uk/efo/EFO_0007825","Other measurement",11
+"Barrett's esophagus","EFO_0000280: http://www.ebi.ac.uk/efo/EFO_0000280","Digestive system disorder",1
+"basal cell carcinoma","EFO_0004193: http://www.ebi.ac.uk/efo/EFO_0004193",Cancer,19
+"base metabolic rate measurement","EFO_0007777: http://www.ebi.ac.uk/efo/EFO_0007777","Other measurement",1
+"basophil count","EFO_0005090: http://www.ebi.ac.uk/efo/EFO_0005090","Hematological measurementInflammatory measurement",3
+"basophil percentage of leukocytes","EFO_0007992: http://www.ebi.ac.uk/efo/EFO_0007992","Hematological measurementInflammatory measurement",3
+"benign colon neoplasm","MONDO_0002278: http://purl.obolibrary.org/obo/MONDO_0002278","CancerDigestive system disorder",2
+"benign digestive system neoplasm","MONDO_0000385: http://purl.obolibrary.org/obo/MONDO_0000385","CancerDigestive system disorder",2
+"benign prostatic hyperplasia","EFO_0000284: http://www.ebi.ac.uk/efo/EFO_0000284","Other disease",3
+"beta-amyloid 1-42 measurement","EFO_0004670: http://www.ebi.ac.uk/efo/EFO_0004670","Other measurement",1
+"biliary tract disease","EFO_0009534: http://www.ebi.ac.uk/efo/EFO_0009534","Digestive system disorder",2
+"bilirubin measurement","EFO_0004570: http://www.ebi.ac.uk/efo/EFO_0004570","Other measurement",5
+"bilirubin metabolism disease","MONDO_0024431: http://purl.obolibrary.org/obo/MONDO_0024431","Metabolic disorder",1
+"bipolar disorder","MONDO_0004985: http://purl.obolibrary.org/obo/MONDO_0004985","Neurological disorder",1
+"bipolar I disorder","EFO_0009963: http://www.ebi.ac.uk/efo/EFO_0009963","Neurological disorder",1
+"bipolar II disorder","EFO_0009964: http://www.ebi.ac.uk/efo/EFO_0009964","Neurological disorder",1
+"birth weight","EFO_0004344: http://www.ebi.ac.uk/efo/EFO_0004344","Body measurement",4
+"blood coagulation disease","EFO_0009314: http://www.ebi.ac.uk/efo/EFO_0009314","Other disease",1
+"blood protein measurement","EFO_0007937: http://www.ebi.ac.uk/efo/EFO_0007937","Other measurement",82
+"BMI-adjusted fasting blood glucose measurement","EFO_0008036: http://www.ebi.ac.uk/efo/EFO_0008036","Other measurement",1
+"BMI-adjusted fasting blood insulin measurement","EFO_0008037: http://www.ebi.ac.uk/efo/EFO_0008037","Other measurement",1
+"BMI-adjusted waist-hip ratio","EFO_0007788: http://www.ebi.ac.uk/efo/EFO_0007788","Body measurement",3
+"body composition measurement","EFO_0005106: http://www.ebi.ac.uk/efo/EFO_0005106","Body measurement",10
+"body fat percentage","EFO_0007800: http://www.ebi.ac.uk/efo/EFO_0007800","Body measurement",9
+"body height","EFO_0004339: http://www.ebi.ac.uk/efo/EFO_0004339","Body measurement",60
+"body mass index","EFO_0004340: http://www.ebi.ac.uk/efo/EFO_0004340","Body measurement",65
+"body weight","EFO_0004338: http://www.ebi.ac.uk/efo/EFO_0004338","Body measurement",2
+"body weights and measures","EFO_0004324: http://www.ebi.ac.uk/efo/EFO_0004324","Body measurement",3
+"bone density","EFO_0003923: http://www.ebi.ac.uk/efo/EFO_0003923","Other measurement",10
+"bone fracture","EFO_0003931: http://www.ebi.ac.uk/efo/EFO_0003931","Other disease",2
+"bone quantitative ultrasound measurement","EFO_0004514: http://www.ebi.ac.uk/efo/EFO_0004514","Other measurement",7
+"bowel opening frequency","EFO_0600084: http://www.ebi.ac.uk/efo/EFO_0600084","Other measurement",2
+"brain aneurysm","EFO_0003870: http://www.ebi.ac.uk/efo/EFO_0003870","Cardiovascular diseaseNeurological disorder",6
+"brain cancer","MONDO_0001657: http://purl.obolibrary.org/obo/MONDO_0001657","CancerNeurological disorder",7
+"brain neoplasm","EFO_0003833: http://www.ebi.ac.uk/efo/EFO_0003833","CancerNeurological disorder",2
+"brain stem volume measurement","EFO_0010605: http://www.ebi.ac.uk/efo/EFO_0010605","Other measurement",1
+"brain volume measurement","EFO_0006930: http://www.ebi.ac.uk/efo/EFO_0006930","Other measurement",222
+"breast carcinoma","EFO_0000305: http://www.ebi.ac.uk/efo/EFO_0000305",Cancer,103
+"bronchus cancer","MONDO_0001672: http://purl.obolibrary.org/obo/MONDO_0001672",Cancer,10
+"Brugada syndrome","MONDO_0015263: http://purl.obolibrary.org/obo/MONDO_0015263","Cardiovascular disease",2
+"C-reactive protein measurement","EFO_0004458: http://www.ebi.ac.uk/efo/EFO_0004458","Inflammatory measurement",34
+"calcaneal bone quantitative ultrasound measurement","EFO_0007772: http://www.ebi.ac.uk/efo/EFO_0007772","Other measurement",6
+"calcium measurement","EFO_0004838: http://www.ebi.ac.uk/efo/EFO_0004838","Other measurement",3
+cancer,"MONDO_0004992: http://purl.obolibrary.org/obo/MONDO_0004992",Cancer,4
+"Cannabis use","EFO_0007585: http://www.ebi.ac.uk/efo/EFO_0007585","Biological process",4
+"carbohydrate intake measurement","EFO_0010811: http://www.ebi.ac.uk/efo/EFO_0010811","Other measurement",1
+"cardiovascular disease","EFO_0000319: http://www.ebi.ac.uk/efo/EFO_0000319","Cardiovascular disease",12
+"cardiovascular disease biomarker measurement","EFO_0005278: http://www.ebi.ac.uk/efo/EFO_0005278","Cardiovascular measurement",1
+"carotid artery intima media thickness","EFO_0007117: http://www.ebi.ac.uk/efo/EFO_0007117","Other measurement",2
+cataract,"MONDO_0005129: http://purl.obolibrary.org/obo/MONDO_0005129","Other disease",4
+"caudate nucleus volume","EFO_0004830: http://www.ebi.ac.uk/efo/EFO_0004830","Other measurement",2
+"celiac disease","EFO_0001060: http://www.ebi.ac.uk/efo/EFO_0001060","Digestive system disorderImmune system disorder",10
+cellulitis,"EFO_0003035: http://www.ebi.ac.uk/efo/EFO_0003035","Other disease",2
+"central nervous system cancer","EFO_0000326: http://www.ebi.ac.uk/efo/EFO_0000326","CancerNeurological disorder",2
+"cerebrospinal fluid volume measurement","EFO_0008080: http://www.ebi.ac.uk/efo/EFO_0008080","Other measurement",2
+"cerebrovascular disorder","EFO_0003763: http://www.ebi.ac.uk/efo/EFO_0003763","Cardiovascular diseaseNeurological disorder",1
+"cervical carcinoma","EFO_0001061: http://www.ebi.ac.uk/efo/EFO_0001061",Cancer,5
+"childhood onset asthma","MONDO_0005405: http://purl.obolibrary.org/obo/MONDO_0005405","Other disease",1
+Cholecystitis,"HP_0001082: http://purl.obolibrary.org/obo/HP_0001082","Other trait",5
+cholelithiasis,"EFO_0004799: http://www.ebi.ac.uk/efo/EFO_0004799","Digestive system disorder",3
+"chronic kidney disease","EFO_0003884: http://www.ebi.ac.uk/efo/EFO_0003884","Other disease",5
+"chronic lymphocytic leukemia","EFO_0000095: http://www.ebi.ac.uk/efo/EFO_0000095","CancerImmune system disorder",8
+"chronic obstructive pulmonary disease","EFO_0000341: http://www.ebi.ac.uk/efo/EFO_0000341","Other disease",7
+"chronotype measurement","EFO_0008328: http://www.ebi.ac.uk/efo/EFO_0008328","Other measurement",13
+"cigarettes per day measurement","EFO_0006525: http://www.ebi.ac.uk/efo/EFO_0006525","Other measurement",7
+"cirrhosis of liver","EFO_0001422: http://www.ebi.ac.uk/efo/EFO_0001422","CancerDigestive system disorder",2
+"cleft lip","EFO_0003959: http://www.ebi.ac.uk/efo/EFO_0003959","Other trait",1
+"Cleft palate","HP_0000175: http://purl.obolibrary.org/obo/HP_0000175","Other trait",1
+"coffee consumption measurement","EFO_0006781: http://www.ebi.ac.uk/efo/EFO_0006781","Other measurement",4
+"cognitive decline measurement","EFO_0007710: http://www.ebi.ac.uk/efo/EFO_0007710","Other measurement",1
+"colon carcinoma","EFO_1001950: http://www.ebi.ac.uk/efo/EFO_1001950","CancerDigestive system disorder",7
+"Colonic diverticula","HP_0002253: http://purl.obolibrary.org/obo/HP_0002253","Other trait",2
+"colorectal cancer","MONDO_0005575: http://purl.obolibrary.org/obo/MONDO_0005575","CancerDigestive system disorder",45
+"colorectal carcinoma","EFO_1001951: http://www.ebi.ac.uk/efo/EFO_1001951","CancerDigestive system disorder",2
+"common wart","EFO_0009662: http://www.ebi.ac.uk/efo/EFO_0009662",Cancer,1
+"comparative body size at age 10, self-reported","EFO_0009819: http://www.ebi.ac.uk/efo/EFO_0009819","Other trait",3
+complication,"EFO_0009518: http://www.ebi.ac.uk/efo/EFO_0009518","Other disease",1
+"congenital vitamin K-dependent coagulation factors deficiency","MONDO_0015722: http://purl.obolibrary.org/obo/MONDO_0015722","Other disease",2
+"congestive heart failure","EFO_0000373: http://www.ebi.ac.uk/efo/EFO_0000373","Cardiovascular disease",2
+"connective tissue disease","EFO_1001986: http://www.ebi.ac.uk/efo/EFO_1001986","Other disease",2
+"cor pulmonale","MONDO_0004596: http://purl.obolibrary.org/obo/MONDO_0004596","Cardiovascular disease",2
+"corneal disease","EFO_0009464: http://www.ebi.ac.uk/efo/EFO_0009464","Other disease",1
+"corneal dystrophy","MONDO_0018102: http://purl.obolibrary.org/obo/MONDO_0018102","Other disease",2
+"corneal hysteresis","EFO_0010066: http://www.ebi.ac.uk/efo/EFO_0010066","Other measurement",2
+"corneal resistance factor","EFO_0010067: http://www.ebi.ac.uk/efo/EFO_0010067","Other measurement",2
+"coronary artery disease","EFO_0001645: http://www.ebi.ac.uk/efo/EFO_0001645","Cardiovascular disease",38
+"coronary atherosclerosis","MONDO_0021661: http://purl.obolibrary.org/obo/MONDO_0021661","Cardiovascular disease",2
+COVID-19,"MONDO_0100096: http://purl.obolibrary.org/obo/MONDO_0100096","Other disease",2
+"creatine measurement","EFO_0010472: http://www.ebi.ac.uk/efo/EFO_0010472","Other measurement",50
+"creatinine clearance measurement","EFO_0007934: http://www.ebi.ac.uk/efo/EFO_0007934","Other measurement",3
+"creatinine measurement","EFO_0004518: http://www.ebi.ac.uk/efo/EFO_0004518","Other measurement",4
+"Crohn's disease","EFO_0000384: http://www.ebi.ac.uk/efo/EFO_0000384","Digestive system disorderImmune system disorder",2
+"cutaneous melanoma","EFO_0000389: http://www.ebi.ac.uk/efo/EFO_0000389",Cancer,4
+"cystatin C measurement","EFO_0004617: http://www.ebi.ac.uk/efo/EFO_0004617","Other measurement",46
+deafness,"EFO_0001063: http://www.ebi.ac.uk/efo/EFO_0001063","Neurological disorder",1
+"deep vein thrombosis","EFO_0003907: http://www.ebi.ac.uk/efo/EFO_0003907","Other trait",7
+dementia,"MONDO_0001627: http://purl.obolibrary.org/obo/MONDO_0001627","Neurological disorder",6
+"dentate gyrus volume measurement","EFO_0010083: http://www.ebi.ac.uk/efo/EFO_0010083","Other measurement",12
+dentures,"EFO_0010078: http://www.ebi.ac.uk/efo/EFO_0010078","Other trait",1
+"depressive disorder","MONDO_0002050: http://purl.obolibrary.org/obo/MONDO_0002050","Neurological disorder",5
+"depressive episode measurement","EFO_0007704: http://www.ebi.ac.uk/efo/EFO_0007704","Other measurement",2
+"depressive symptom measurement","EFO_0007006: http://www.ebi.ac.uk/efo/EFO_0007006","Other measurement",6
+dermatitis,"MONDO_0002406: http://purl.obolibrary.org/obo/MONDO_0002406","Other disease",2
+"diabetes mellitus","EFO_0000400: http://www.ebi.ac.uk/efo/EFO_0000400","Digestive system disorderMetabolic disorder",19
+"diabetic eye disease","EFO_0009486: http://www.ebi.ac.uk/efo/EFO_0009486","Other disease",1
+"diabetic retinopathy","EFO_0003770: http://www.ebi.ac.uk/efo/EFO_0003770","Cardiovascular diseaseMetabolic disorderNeurological disorder",4
+"diaphragmatic hernia","EFO_0008561: http://www.ebi.ac.uk/efo/EFO_0008561","Other trait",1
+"diastolic blood pressure","EFO_0006336: http://www.ebi.ac.uk/efo/EFO_0006336","Other measurement",42
+"diet measurement","EFO_0008111: http://www.ebi.ac.uk/efo/EFO_0008111","Other measurement",17
+"diffuse large B-cell lymphoma","EFO_0000403: http://www.ebi.ac.uk/efo/EFO_0000403","CancerImmune system disorder",2
+"Digestive System Carcinoma","EFO_1000218: http://www.ebi.ac.uk/efo/EFO_1000218","CancerDigestive system disorder",1
+"digestive system disease","EFO_0000405: http://www.ebi.ac.uk/efo/EFO_0000405","Digestive system disorder",2
+disease,"EFO_0000408: http://www.ebi.ac.uk/efo/EFO_0000408","Other disease",1
+"disorder of appendix","EFO_0009542: http://www.ebi.ac.uk/efo/EFO_0009542","Digestive system disorder",2
+"Disorder of bilirubin metabolism and excretion","Orphanet_309816: http://www.orpha.net/ORDO/Orphanet_309816","Metabolic disorder",2
+"disorder of pilosebaceous unit","MONDO_0002917: http://purl.obolibrary.org/obo/MONDO_0002917","Other disease",2
+"diverticular disease","EFO_0009959: http://www.ebi.ac.uk/efo/EFO_0009959","Digestive system disorder",2
+diverticulitis,"EFO_1001460: http://www.ebi.ac.uk/efo/EFO_1001460","Digestive system disorder",1
+"drinking behavior","EFO_0004315: http://www.ebi.ac.uk/efo/EFO_0004315","Biological process",2
+"drug allergy","EFO_0009482: http://www.ebi.ac.uk/efo/EFO_0009482","Immune system disorder",2
+"drug use measurement","EFO_0007010: http://www.ebi.ac.uk/efo/EFO_0007010","Other measurement",1
+"duodenal ulcer","EFO_0004607: http://www.ebi.ac.uk/efo/EFO_0004607","Digestive system disorder",1
+duodenitis,"MONDO_0004627: http://purl.obolibrary.org/obo/MONDO_0004627","Digestive system disorder",1
+"Dupuytren Contracture","EFO_0004229: http://www.ebi.ac.uk/efo/EFO_0004229","Other disease",3
+"ease of getting up in the morning, self-reported","EFO_0009817: http://www.ebi.ac.uk/efo/EFO_0009817","Other trait",1
+"eating disorder","EFO_0005203: http://www.ebi.ac.uk/efo/EFO_0005203","Metabolic disorderNeurological disorder",1
+Eczema,"HP_0000964: http://purl.obolibrary.org/obo/HP_0000964","Other trait",10
+"educational attainment","EFO_0011015: http://www.ebi.ac.uk/efo/EFO_0011015","Other measurement",11
+"emotional symptom measurement","EFO_0007803: http://www.ebi.ac.uk/efo/EFO_0007803","Other measurement",1
+emphysema,"EFO_0000464: http://www.ebi.ac.uk/efo/EFO_0000464","Other disease",1
+"endocrine system disease","EFO_0001379: http://www.ebi.ac.uk/efo/EFO_0001379","Other disease",8
+"endometrial cancer","MONDO_0011962: http://purl.obolibrary.org/obo/MONDO_0011962",Cancer,1
+"endometrial carcinoma","EFO_1001512: http://www.ebi.ac.uk/efo/EFO_1001512",Cancer,6
+endometriosis,"EFO_0001065: http://www.ebi.ac.uk/efo/EFO_0001065","Other disease",3
+"enthesitis-related juvenile idiopathic arthritis","EFO_0009732: http://www.ebi.ac.uk/efo/EFO_0009732","Immune system disorder",1
+"eosinophil count","EFO_0004842: http://www.ebi.ac.uk/efo/EFO_0004842","Hematological measurement",13
+"eosinophil percentage of leukocytes","EFO_0007991: http://www.ebi.ac.uk/efo/EFO_0007991","Hematological measurement",6
+"Epidermal Inclusion Cyst","EFO_1000243: http://www.ebi.ac.uk/efo/EFO_1000243",Cancer,2
+epilepsy,"EFO_0000474: http://www.ebi.ac.uk/efo/EFO_0000474","Neurological disorder",1
+"Epiphyses, Slipped","EFO_1001317: http://www.ebi.ac.uk/efo/EFO_1001317","Other disease",1
+"Epstein Barr virus nuclear antigen-1 seropositivity","EFO_0009271: http://www.ebi.ac.uk/efo/EFO_0009271","Other measurement",1
+"erythrocyte count","EFO_0004305: http://www.ebi.ac.uk/efo/EFO_0004305","Hematological measurement",16
+"esophageal adenocarcinoma","EFO_0000478: http://www.ebi.ac.uk/efo/EFO_0000478","CancerDigestive system disorder",2
+"esophageal cancer","MONDO_0007576: http://purl.obolibrary.org/obo/MONDO_0007576","CancerDigestive system disorder",4
+"esophageal carcinoma","EFO_0002916: http://www.ebi.ac.uk/efo/EFO_0002916","CancerDigestive system disorder",1
+esophagitis,"MONDO_0001409: http://purl.obolibrary.org/obo/MONDO_0001409","Digestive system disorder",2
+"essential hypertension","MONDO_0001134: http://purl.obolibrary.org/obo/MONDO_0001134","Cardiovascular disease",2
+"estradiol measurement","EFO_0004697: http://www.ebi.ac.uk/efo/EFO_0004697","Other measurement",11
+"estrogen-receptor negative breast cancer","EFO_1000650: http://www.ebi.ac.uk/efo/EFO_1000650",Cancer,6
+"estrogen-receptor positive breast cancer","EFO_1000649: http://www.ebi.ac.uk/efo/EFO_1000649",Cancer,6
+"executive function measurement","EFO_0009332: http://www.ebi.ac.uk/efo/EFO_0009332","Other measurement",1
+"eye disease","EFO_0003966: http://www.ebi.ac.uk/efo/EFO_0003966","Other disease",1
+"eye inflammation","EFO_0005752: http://www.ebi.ac.uk/efo/EFO_0005752","Other trait",1
+"eye measurement","EFO_0004731: http://www.ebi.ac.uk/efo/EFO_0004731","Other measurement",14
+"factor VIII measurement","EFO_0004630: http://www.ebi.ac.uk/efo/EFO_0004630","Hematological measurement",1
+fall,"EFO_0009631: http://www.ebi.ac.uk/efo/EFO_0009631","Other trait",3
+"family history","EFO_0000493: http://www.ebi.ac.uk/efo/EFO_0000493","Other trait",3
+"family history of Alzheimer’s disease","EFO_0009268: http://www.ebi.ac.uk/efo/EFO_0009268","Other measurement",1
+"family history of breast cancer","EFO_0005606: http://www.ebi.ac.uk/efo/EFO_0005606","Other trait",1
+"family history of lung cancer","EFO_0006953: http://www.ebi.ac.uk/efo/EFO_0006953","Other measurement",1
+"family history of prostate cancer","EFO_0600083: http://www.ebi.ac.uk/efo/EFO_0600083","Other trait",1
+"fasting blood glucose measurement","EFO_0004465: http://www.ebi.ac.uk/efo/EFO_0004465","Other measurement",25
+"fasting blood insulin measurement","EFO_0004466: http://www.ebi.ac.uk/efo/EFO_0004466","Other measurement",4
+"fat body mass","EFO_0005409: http://www.ebi.ac.uk/efo/EFO_0005409","Other measurement",9
+"father's age at death","EFO_0009712: http://www.ebi.ac.uk/efo/EFO_0009712","Other measurement",1
+"feeling emotionally hurt measurement","EFO_0009599: http://www.ebi.ac.uk/efo/EFO_0009599","Other measurement",1
+"feeling nervous measurement","EFO_0009597: http://www.ebi.ac.uk/efo/EFO_0009597","Other measurement",1
+female,"PATO_0000383: http://purl.obolibrary.org/obo/PATO_0000383","Sex-specific PGS",9
+"female reproductive system neoplasm","MONDO_0021148: http://purl.obolibrary.org/obo/MONDO_0021148",Cancer,1
+"FEV/FEC ratio","EFO_0004713: http://www.ebi.ac.uk/efo/EFO_0004713","Other measurement",16
+"fibroblastic disorder","EFO_0009432: http://www.ebi.ac.uk/efo/EFO_0009432","Other disease",1
+"fish consumption measurement","EFO_0010139: http://www.ebi.ac.uk/efo/EFO_0010139","Other measurement",1
+"folic acid measurement","EFO_0005111: http://www.ebi.ac.uk/efo/EFO_0005111","Other measurement",1
+"Follicular Cyst","EFO_1001329: http://www.ebi.ac.uk/efo/EFO_1001329","Other disease",1
+"follicular lymphoma","MONDO_0018906: http://purl.obolibrary.org/obo/MONDO_0018906","CancerImmune system disorder",4
+"forced expiratory volume","EFO_0004314: http://www.ebi.ac.uk/efo/EFO_0004314","Other measurement",4
+"fourth ventricle volume measurement","EFO_0010303: http://www.ebi.ac.uk/efo/EFO_0010303","Other measurement",1
+"friendship satisfaction measurement","EFO_0009725: http://www.ebi.ac.uk/efo/EFO_0009725","Other measurement",1
+gallstones,"EFO_0004210: http://www.ebi.ac.uk/efo/EFO_0004210","Digestive system disorder",2
+"ganglion or cyst of synovium/tendon/bursa","MONDO_0004874: http://purl.obolibrary.org/obo/MONDO_0004874","Other disease",1
+"gastric cancer","MONDO_0001056: http://purl.obolibrary.org/obo/MONDO_0001056","CancerDigestive system disorder",1
+"gastroesophageal reflux disease","EFO_0003948: http://www.ebi.ac.uk/efo/EFO_0003948","Digestive system disorder",2
+"gestational age","EFO_0005112: http://www.ebi.ac.uk/efo/EFO_0005112","Other measurement",1
+"gestational diabetes","EFO_0004593: http://www.ebi.ac.uk/efo/EFO_0004593","Digestive system disorderMetabolic disorder",1
+"GFR change measurement","EFO_0006829: http://www.ebi.ac.uk/efo/EFO_0006829","Other measurement",1
+glaucoma,"MONDO_0005041: http://purl.obolibrary.org/obo/MONDO_0005041","Other disease",8
+glioblastoma,"MONDO_0018177: http://purl.obolibrary.org/obo/MONDO_0018177","CancerNeurological disorder",1
+glioma,"EFO_0005543: http://www.ebi.ac.uk/efo/EFO_0005543","CancerNeurological disorder",3
+"glomerular filtration rate","EFO_0005208: http://www.ebi.ac.uk/efo/EFO_0005208","Other measurement",78
+"glucose measurement","EFO_0004468: http://www.ebi.ac.uk/efo/EFO_0004468","Other measurement",22
+"glucose tolerance test","EFO_0004307: http://www.ebi.ac.uk/efo/EFO_0004307","Other measurement",1
+gout,"EFO_0004274: http://www.ebi.ac.uk/efo/EFO_0004274","Metabolic disorder",10
+"grey matter volume measurement","EFO_0005420: http://www.ebi.ac.uk/efo/EFO_0005420","Other measurement",90
+"grip strength measurement","EFO_0006941: http://www.ebi.ac.uk/efo/EFO_0006941","Other measurement",5
+"hair colour measurement","EFO_0007822: http://www.ebi.ac.uk/efo/EFO_0007822","Other measurement",20
+"Hallux valgus","HP_0001822: http://purl.obolibrary.org/obo/HP_0001822","Other trait",2
+handedness,"EFO_0009902: http://www.ebi.ac.uk/efo/EFO_0009902","Other trait",1
+"HbA1c measurement","EFO_0004541: http://www.ebi.ac.uk/efo/EFO_0004541","Hematological measurement",24
+"head and neck squamous cell carcinoma","EFO_0000181: http://www.ebi.ac.uk/efo/EFO_0000181",Cancer,1
+Headache,"HP_0002315: http://purl.obolibrary.org/obo/HP_0002315","Other trait",1
+"headache disorder","EFO_0009550: http://www.ebi.ac.uk/efo/EFO_0009550","Neurological disorder",2
+"health satisfaction measurement","EFO_0009724: http://www.ebi.ac.uk/efo/EFO_0009724","Other measurement",5
+"health trait","EFO_0007652: http://www.ebi.ac.uk/efo/EFO_0007652","Other trait",5
+"health-related quality of life measurement","EFO_0011014: http://www.ebi.ac.uk/efo/EFO_0011014","Other measurement",4
+"hearing disorder","MONDO_0021945: http://purl.obolibrary.org/obo/MONDO_0021945","Neurological disorder",2
+"hearing loss","EFO_0004238: http://www.ebi.ac.uk/efo/EFO_0004238","Neurological disorder",2
+"heart failure","EFO_0003144: http://www.ebi.ac.uk/efo/EFO_0003144","Cardiovascular disease",3
+"heart rate","EFO_0004326: http://www.ebi.ac.uk/efo/EFO_0004326","Cardiovascular measurement",8
+"heel bone mineral density","EFO_0009270: http://www.ebi.ac.uk/efo/EFO_0009270","Other measurement",10
+hematocrit,"EFO_0004348: http://www.ebi.ac.uk/efo/EFO_0004348","Hematological measurement",7
+"hematologic disease","EFO_0005803: http://www.ebi.ac.uk/efo/EFO_0005803","Other disease",1
+"hematological measurement","EFO_0004503: http://www.ebi.ac.uk/efo/EFO_0004503","Hematological measurement",2
+Hematuria,"HP_0000790: http://purl.obolibrary.org/obo/HP_0000790","Other trait",2
+"hemoglobin measurement","EFO_0004509: http://www.ebi.ac.uk/efo/EFO_0004509","Hematological measurement",7
+hemorrhoid,"EFO_0009552: http://www.ebi.ac.uk/efo/EFO_0009552","Cardiovascular disease",3
+"HER2 negative breast carcinoma","EFO_0009780: http://www.ebi.ac.uk/efo/EFO_0009780",Cancer,1
+"HER2 Positive Breast Carcinoma","EFO_1000294: http://www.ebi.ac.uk/efo/EFO_1000294",Cancer,1
+"Herpes Zoster","EFO_0006510: http://www.ebi.ac.uk/efo/EFO_0006510","Other disease",1
+"Hiatus hernia","HP_0002036: http://purl.obolibrary.org/obo/HP_0002036","Other trait",1
+"high density lipoprotein cholesterol measurement","EFO_0004612: http://www.ebi.ac.uk/efo/EFO_0004612","Lipid or lipoprotein measurement",52
+"high grade ovarian serous adenocarcinoma","EFO_1001958: http://www.ebi.ac.uk/efo/EFO_1001958",Cancer,1
+"hip circumference","EFO_0005093: http://www.ebi.ac.uk/efo/EFO_0005093","Body measurement",4
+"hippocampal amigdala transition area volume","EFO_0009401: http://www.ebi.ac.uk/efo/EFO_0009401","Other measurement",6
+"hippocampal CA1 volume","EFO_0009394: http://www.ebi.ac.uk/efo/EFO_0009394","Other measurement",12
+"hippocampal CA3 volume","EFO_0009395: http://www.ebi.ac.uk/efo/EFO_0009395","Other measurement",12
+"hippocampal CA4 volume","EFO_0009396: http://www.ebi.ac.uk/efo/EFO_0009396","Other measurement",12
+"hippocampal fissure volume","EFO_0009404: http://www.ebi.ac.uk/efo/EFO_0009404","Other measurement",6
+"hippocampal tail volume","EFO_0009398: http://www.ebi.ac.uk/efo/EFO_0009398","Other measurement",6
+"hippocampal volume","EFO_0005035: http://www.ebi.ac.uk/efo/EFO_0005035","Other measurement",19
+"hippocampus fimbria volume","EFO_0009402: http://www.ebi.ac.uk/efo/EFO_0009402","Other measurement",6
+"hippocampus molecular layer volume","EFO_0009397: http://www.ebi.ac.uk/efo/EFO_0009397","Other measurement",12
+"Hodgkins lymphoma","EFO_0000183: http://www.ebi.ac.uk/efo/EFO_0000183",Cancer,5
+HOMA-B,"EFO_0004469: http://www.ebi.ac.uk/efo/EFO_0004469","Other measurement",1
+HOMA-IR,"EFO_0004501: http://www.ebi.ac.uk/efo/EFO_0004501","Other measurement",1
+"household income","EFO_0009695: http://www.ebi.ac.uk/efo/EFO_0009695","Other trait",3
+Hypercholesterolemia,"HP_0003124: http://purl.obolibrary.org/obo/HP_0003124","Other trait",10
+hypertension,"EFO_0000537: http://www.ebi.ac.uk/efo/EFO_0000537","Cardiovascular disease",49
+hyperthyroidism,"EFO_0009189: http://www.ebi.ac.uk/efo/EFO_0009189","Other disease",1
+"hypertrophic cardiomyopathy","EFO_0000538: http://www.ebi.ac.uk/efo/EFO_0000538","Cardiovascular disease",2
+Hypoglycemia,"HP_0001943: http://purl.obolibrary.org/obo/HP_0001943","Other trait",2
+hypothyroidism,"EFO_0004705: http://www.ebi.ac.uk/efo/EFO_0004705","Other disease",16
+"idiopathic pulmonary fibrosis","EFO_0000768: http://www.ebi.ac.uk/efo/EFO_0000768",Cancer,1
+"IGF-1 measurement","EFO_0004627: http://www.ebi.ac.uk/efo/EFO_0004627","Other measurement",4
+"Immature Reticulocyte Fraction Measurement","EFO_0009253: http://www.ebi.ac.uk/efo/EFO_0009253","Hematological measurement",3
+"Increased blood pressure","HP_0032263: http://purl.obolibrary.org/obo/HP_0032263","Other trait",1
+"inflammatory bowel disease","EFO_0003767: http://www.ebi.ac.uk/efo/EFO_0003767","Digestive system disorderImmune system disorder",2
+"Inguinal hernia","HP_0000023: http://purl.obolibrary.org/obo/HP_0000023","Other trait",4
+insomnia,"EFO_0004698: http://www.ebi.ac.uk/efo/EFO_0004698","Neurological disorder",13
+"insomnia measurement","EFO_0007876: http://www.ebi.ac.uk/efo/EFO_0007876","Other measurement",2
+"insulin like growth factor measurement","EFO_0004628: http://www.ebi.ac.uk/efo/EFO_0004628","Other measurement",1
+"insulin resistance","EFO_0002614: http://www.ebi.ac.uk/efo/EFO_0002614","Other trait",1
+"insulin response measurement","EFO_0008473: http://www.ebi.ac.uk/efo/EFO_0008473","Other measurement",1
+"insulin secretion measurement","EFO_0008001: http://www.ebi.ac.uk/efo/EFO_0008001","Other measurement",2
+"insulin sensitivity measurement","EFO_0004471: http://www.ebi.ac.uk/efo/EFO_0004471","Other measurement",1
+"insulin use measurement","EFO_0600082: http://www.ebi.ac.uk/efo/EFO_0600082","Other measurement",1
+intelligence,"EFO_0004337: http://www.ebi.ac.uk/efo/EFO_0004337","Biological process",5
+"interstitial lung disease","EFO_0004244: http://www.ebi.ac.uk/efo/EFO_0004244","Other disease",1
+"intestinal disease","EFO_0009431: http://www.ebi.ac.uk/efo/EFO_0009431","Digestive system disorder",1
+"intracerebral hemorrhage","EFO_0005669: http://www.ebi.ac.uk/efo/EFO_0005669","Cardiovascular diseaseNeurological disorder",1
+"intraocular pressure measurement","EFO_0004695: http://www.ebi.ac.uk/efo/EFO_0004695","Other measurement",7
+Iridocyclitis,"HP_0001094: http://purl.obolibrary.org/obo/HP_0001094","Other trait",1
+iritis,"EFO_1000997: http://www.ebi.ac.uk/efo/EFO_1000997","Other disease",1
+"iron metabolism disease","MONDO_0002279: http://purl.obolibrary.org/obo/MONDO_0002279","Metabolic disorder",2
+"Ischemic stroke","HP_0002140: http://purl.obolibrary.org/obo/HP_0002140","Other trait",5
+"juvenile idiopathic arthritis","EFO_0002609: http://www.ebi.ac.uk/efo/EFO_0002609","Immune system disorder",1
+keratoconus,"MONDO_0015486: http://purl.obolibrary.org/obo/MONDO_0015486","Other disease",1
+"kidney cancer","MONDO_0002367: http://purl.obolibrary.org/obo/MONDO_0002367",Cancer,2
+"kidney failure","EFO_1002048: http://www.ebi.ac.uk/efo/EFO_1002048","Other disease",1
+"knee injury","EFO_0009507: http://www.ebi.ac.uk/efo/EFO_0009507","Other trait",1
+"late-onset Alzheimer's disease","EFO_1001870: http://www.ebi.ac.uk/efo/EFO_1001870","Neurological disorder",4
+"lean body mass","EFO_0004995: http://www.ebi.ac.uk/efo/EFO_0004995","Other measurement",8
+"left ventricular ejection fraction measurement","EFO_0008373: http://www.ebi.ac.uk/efo/EFO_0008373","Cardiovascular measurement",3
+"left ventricular mass index","EFO_0009290: http://www.ebi.ac.uk/efo/EFO_0009290","Cardiovascular measurement",1
+"left ventricular stroke volume measurement","EFO_0010555: http://www.ebi.ac.uk/efo/EFO_0010555","Cardiovascular measurement",1
+"left ventricular systolic function measurement","EFO_0008206: http://www.ebi.ac.uk/efo/EFO_0008206","Cardiovascular measurement",1
+"leukocyte count","EFO_0004308: http://www.ebi.ac.uk/efo/EFO_0004308","Hematological measurement",16
+"lifestyle measurement","EFO_0010724: http://www.ebi.ac.uk/efo/EFO_0010724","Other measurement",5
+"lipoprotein A measurement","EFO_0006925: http://www.ebi.ac.uk/efo/EFO_0006925","Lipid or lipoprotein measurement",8
+"liver disease","EFO_0001421: http://www.ebi.ac.uk/efo/EFO_0001421","Digestive system disorder",3
+"liver fat measurement","EFO_0010821: http://www.ebi.ac.uk/efo/EFO_0010821","Other measurement",3
+"loneliness measurement","EFO_0007865: http://www.ebi.ac.uk/efo/EFO_0007865","Other measurement",1
+longevity,"EFO_0004300: http://www.ebi.ac.uk/efo/EFO_0004300","Other measurement",2
+"longitudinal alcohol consumption measurement","EFO_0007645: http://www.ebi.ac.uk/efo/EFO_0007645","Other measurement",1
+"low density lipoprotein cholesterol measurement","EFO_0004611: http://www.ebi.ac.uk/efo/EFO_0004611","Cardiovascular measurementLipid or lipoprotein measurement",73
+"luminal A breast carcinoma","MONDO_0021116: http://purl.obolibrary.org/obo/MONDO_0021116",Cancer,1
+"luminal B breast carcinoma","MONDO_0021115: http://purl.obolibrary.org/obo/MONDO_0021115",Cancer,1
+"lung adenocarcinoma","EFO_0000571: http://www.ebi.ac.uk/efo/EFO_0000571",Cancer,2
+"lung cancer","MONDO_0008903: http://purl.obolibrary.org/obo/MONDO_0008903",Cancer,10
+"lung carcinoma","EFO_0001071: http://www.ebi.ac.uk/efo/EFO_0001071",Cancer,9
+"lupus erythematosus","MONDO_0004670: http://purl.obolibrary.org/obo/MONDO_0004670","Immune system disorder",2
+"lymphocyte count","EFO_0004587: http://www.ebi.ac.uk/efo/EFO_0004587","Hematological measurement",15
+"lymphocyte percentage of leukocytes","EFO_0007993: http://www.ebi.ac.uk/efo/EFO_0007993","Hematological measurement",6
+"lymphoid leukemia","EFO_0004289: http://www.ebi.ac.uk/efo/EFO_0004289",Cancer,4
+"macular degeneration","EFO_0009606: http://www.ebi.ac.uk/efo/EFO_0009606","Neurological disorder",1
+"major depressive disorder","MONDO_0002009: http://purl.obolibrary.org/obo/MONDO_0002009","Neurological disorder",18
+Malabsorption,"HP_0002024: http://purl.obolibrary.org/obo/HP_0002024","Other trait",1
+male,"PATO_0000384: http://purl.obolibrary.org/obo/PATO_0000384","Sex-specific PGS",9
+"male reproductive organ cancer","EFO_0007355: http://www.ebi.ac.uk/efo/EFO_0007355",Cancer,3
+"Malignant Laryngeal Neoplasm","EFO_1000354: http://www.ebi.ac.uk/efo/EFO_1000354",Cancer,3
+"marginal zone B-cell lymphoma","EFO_1000630: http://www.ebi.ac.uk/efo/EFO_1000630","CancerDigestive system disorderImmune system disorder",1
+"mean arterial pressure","EFO_0006340: http://www.ebi.ac.uk/efo/EFO_0006340","Other measurement",1
+"mean corpuscular hemoglobin","EFO_0004527: http://www.ebi.ac.uk/efo/EFO_0004527","Hematological measurement",15
+"mean corpuscular hemoglobin concentration","EFO_0004528: http://www.ebi.ac.uk/efo/EFO_0004528","Hematological measurement",3
+"mean corpuscular volume","EFO_0004526: http://www.ebi.ac.uk/efo/EFO_0004526","Hematological measurement",8
+"mean platelet volume","EFO_0004584: http://www.ebi.ac.uk/efo/EFO_0004584","Hematological measurement",14
+"mean reticulocyte volume","EFO_0010701: http://www.ebi.ac.uk/efo/EFO_0010701","Hematological measurement",5
+melanoma,"EFO_0000756: http://www.ebi.ac.uk/efo/EFO_0000756",Cancer,41
+menopause,"EFO_0003922: http://www.ebi.ac.uk/efo/EFO_0003922","Other trait",5
+"menstrual cycle measurement","EFO_0007786: http://www.ebi.ac.uk/efo/EFO_0007786","Other measurement",4
+"merkel cell virus seropositivity","EFO_0010906: http://www.ebi.ac.uk/efo/EFO_0010906","Other measurement",1
+"metabolic disease","EFO_0000589: http://www.ebi.ac.uk/efo/EFO_0000589","Metabolic disorder",2
+"migraine disorder","MONDO_0005277: http://purl.obolibrary.org/obo/MONDO_0005277","Cardiovascular diseaseNeurological disorder",2
+"mineral metabolism disease","EFO_0009556: http://www.ebi.ac.uk/efo/EFO_0009556","Metabolic disorder",1
+"Mitral valve prolapse","HP_0001634: http://purl.obolibrary.org/obo/HP_0001634","Cardiovascular disease",1
+"monocyte count","EFO_0005091: http://www.ebi.ac.uk/efo/EFO_0005091","Hematological measurement",15
+"monocyte percentage of leukocytes","EFO_0007989: http://www.ebi.ac.uk/efo/EFO_0007989","Hematological measurement",6
+"mosaic loss of chromosome Y measurement","EFO_0007783: http://www.ebi.ac.uk/efo/EFO_0007783","Other measurement",1
+"multinodular goiter","MONDO_0000334: http://purl.obolibrary.org/obo/MONDO_0000334","Other disease",2
+"multiple myeloma","EFO_0001378: http://www.ebi.ac.uk/efo/EFO_0001378","CancerImmune system disorder",6
+"multiple sclerosis","MONDO_0005301: http://purl.obolibrary.org/obo/MONDO_0005301","Immune system disorderNeurological disorder",6
+"myocardial infarction","EFO_0000612: http://www.ebi.ac.uk/efo/EFO_0000612","Cardiovascular disease",5
+"Myocardial Ischemia","EFO_1001375: http://www.ebi.ac.uk/efo/EFO_1001375","Cardiovascular disease",1
+Myopia,"HP_0000545: http://purl.obolibrary.org/obo/HP_0000545","Other trait",3
+myxedema,"EFO_1001055: http://www.ebi.ac.uk/efo/EFO_1001055","Other disease",1
+"nap during day, self-reported","EFO_0009818: http://www.ebi.ac.uk/efo/EFO_0009818","Other trait",1
+narcolepsy,"MONDO_0021107: http://purl.obolibrary.org/obo/MONDO_0021107","Neurological disorder",3
+"narcolepsy-cataplexy syndrome","MONDO_0016158: http://purl.obolibrary.org/obo/MONDO_0016158","Neurological disorder",2
+"Nasal polyposis","HP_0100582: http://purl.obolibrary.org/obo/HP_0100582","Other trait",4
+"nasopharyngeal neoplasm","EFO_0004252: http://www.ebi.ac.uk/efo/EFO_0004252",Cancer,1
+nephrolithiasis,"EFO_0004253: http://www.ebi.ac.uk/efo/EFO_0004253","Other disease",1
+"nephrotic syndrome","EFO_0004255: http://www.ebi.ac.uk/efo/EFO_0004255","Other disease",1
+neuroblastoma,"EFO_0000621: http://www.ebi.ac.uk/efo/EFO_0000621","CancerNeurological disorder",1
+"neuroimaging measurement","EFO_0004346: http://www.ebi.ac.uk/efo/EFO_0004346","Other measurement",335
+"neuroticism measurement","EFO_0007660: http://www.ebi.ac.uk/efo/EFO_0007660","Other measurement",11
+"neutrophil count","EFO_0004833: http://www.ebi.ac.uk/efo/EFO_0004833","Hematological measurement",6
+"neutrophil percentage of leukocytes","EFO_0007990: http://www.ebi.ac.uk/efo/EFO_0007990","Hematological measurement",6
+"nicotine dependence","EFO_0003768: http://www.ebi.ac.uk/efo/EFO_0003768","Neurological disorder",2
+"nicotine metabolite ratio","EFO_0007794: http://www.ebi.ac.uk/efo/EFO_0007794","Other measurement",2
+"non-alcoholic fatty liver disease","EFO_0003095: http://www.ebi.ac.uk/efo/EFO_0003095","Digestive system disorder",4
+"non-alcoholic fatty liver disease severity measurement","EFO_0008421: http://www.ebi.ac.uk/efo/EFO_0008421","Other measurement",1
+"non-high density lipoprotein cholesterol measurement","EFO_0005689: http://www.ebi.ac.uk/efo/EFO_0005689","Cardiovascular measurementLipid or lipoprotein measurement",1
+"non-Hodgkins lymphoma","EFO_0005952: http://www.ebi.ac.uk/efo/EFO_0005952",Cancer,4
+"non-melanoma skin carcinoma","EFO_0009260: http://www.ebi.ac.uk/efo/EFO_0009260",Cancer,1
+"Non-ST Elevation Myocardial Infarction","EFO_0008586: http://www.ebi.ac.uk/efo/EFO_0008586","Cardiovascular disease",1
+"nontoxic goiter","MONDO_0001658: http://purl.obolibrary.org/obo/MONDO_0001658","Other disease",3
+"NSAID use measurement","EFO_0007012: http://www.ebi.ac.uk/efo/EFO_0007012","Other measurement",3
+"nucleus accumbens volume","EFO_0006931: http://www.ebi.ac.uk/efo/EFO_0006931","Other measurement",2
+"number of cancers, self-reported","EFO_0009800: http://www.ebi.ac.uk/efo/EFO_0009800","Other trait",1
+"number of children ever born measurement","EFO_0009102: http://www.ebi.ac.uk/efo/EFO_0009102","Other measurement",8
+"number of non-cancer illnesses, self-reported","EFO_0009801: http://www.ebi.ac.uk/efo/EFO_0009801","Other trait",1
+"number of treatments or medications taken, self-reported","EFO_0009803: http://www.ebi.ac.uk/efo/EFO_0009803","Other trait",1
+obesity,"EFO_0001073: http://www.ebi.ac.uk/efo/EFO_0001073","Metabolic disorder",5
+"obstructive sleep apnea","EFO_0003918: http://www.ebi.ac.uk/efo/EFO_0003918","Neurological disorder",3
+"occlusion precerebral artery","EFO_0009677: http://www.ebi.ac.uk/efo/EFO_0009677","Cardiovascular diseaseNeurological disorder",1
+"ocular cancer","MONDO_0002236: http://purl.obolibrary.org/obo/MONDO_0002236","CancerNeurological disorder",1
+"oligoarticular juvenile idiopathic arthritis","EFO_1002019: http://www.ebi.ac.uk/efo/EFO_1002019","Immune system disorder",1
+"open-angle glaucoma","EFO_0004190: http://www.ebi.ac.uk/efo/EFO_0004190","Other disease",4
+"oral cavity cancer","EFO_0005570: http://www.ebi.ac.uk/efo/EFO_0005570","CancerDigestive system disorder",4
+"Oral ulcer","HP_0000155: http://purl.obolibrary.org/obo/HP_0000155","Other trait",1
+osteoarthritis,"MONDO_0005178: http://purl.obolibrary.org/obo/MONDO_0005178","Other disease",3
+"osteoarthritis, hip","EFO_1000786: http://www.ebi.ac.uk/efo/EFO_1000786","Other disease",4
+"osteoarthritis, knee","EFO_0004616: http://www.ebi.ac.uk/efo/EFO_0004616","Other disease",4
+osteoporosis,"EFO_0003882: http://www.ebi.ac.uk/efo/EFO_0003882","Other disease",5
+otosclerosis,"EFO_0004213: http://www.ebi.ac.uk/efo/EFO_0004213","Neurological disorder",2
+"ovarian carcinoma","EFO_0001075: http://www.ebi.ac.uk/efo/EFO_0001075",Cancer,11
+"ovarian neoplasm","EFO_0003893: http://www.ebi.ac.uk/efo/EFO_0003893",Cancer,21
+"ovarian serous carcinoma","EFO_1001516: http://www.ebi.ac.uk/efo/EFO_1001516",Cancer,2
+overnutrition,"MONDO_0003916: http://purl.obolibrary.org/obo/MONDO_0003916","Metabolic disorder",2
+"overweight body mass index status","EFO_0005935: http://www.ebi.ac.uk/efo/EFO_0005935","Body measurement",2
+"P wave duration","EFO_0005094: http://www.ebi.ac.uk/efo/EFO_0005094","Cardiovascular measurement",2
+"pallidum volume","EFO_0006933: http://www.ebi.ac.uk/efo/EFO_0006933","Other measurement",2
+"pancreas disease","EFO_0009605: http://www.ebi.ac.uk/efo/EFO_0009605","Digestive system disorder",1
+"pancreatic carcinoma","EFO_0002618: http://www.ebi.ac.uk/efo/EFO_0002618","CancerDigestive system disorder",8
+"pancreatic ductal adenocarcinoma","EFO_0002517: http://www.ebi.ac.uk/efo/EFO_0002517","CancerDigestive system disorder",1
+"pancreatic neoplasm","EFO_0003860: http://www.ebi.ac.uk/efo/EFO_0003860","CancerDigestive system disorder",1
+"parasubiculum volume","EFO_0009405: http://www.ebi.ac.uk/efo/EFO_0009405","Other measurement",6
+"Parkinson disease","MONDO_0005180: http://purl.obolibrary.org/obo/MONDO_0005180","Neurological disorder",10
+"peak expiratory flow","EFO_0009718: http://www.ebi.ac.uk/efo/EFO_0009718","Other measurement",2
+"pelvic organ prolapse","EFO_0004710: http://www.ebi.ac.uk/efo/EFO_0004710","Other disease",1
+"peripheral nervous system disease","EFO_0009387: http://www.ebi.ac.uk/efo/EFO_0009387","Neurological disorder",2
+"peripheral vascular disease","EFO_0003875: http://www.ebi.ac.uk/efo/EFO_0003875","Cardiovascular disease",2
+"pharynx cancer","EFO_0005577: http://www.ebi.ac.uk/efo/EFO_0005577","CancerDigestive system disorder",2
+Phlebitis,"EFO_1001395: http://www.ebi.ac.uk/efo/EFO_1001395","Cardiovascular disease",3
+"phosphate measurement","EFO_0010968: http://www.ebi.ac.uk/efo/EFO_0010968","Other measurement",3
+"physical activity measurement","EFO_0008002: http://www.ebi.ac.uk/efo/EFO_0008002","Other measurement",6
+"platelet component distribution width","EFO_0007984: http://www.ebi.ac.uk/efo/EFO_0007984","Hematological measurement",6
+"platelet count","EFO_0004309: http://www.ebi.ac.uk/efo/EFO_0004309","Hematological measurement",15
+"platelet crit","EFO_0007985: http://www.ebi.ac.uk/efo/EFO_0007985","Hematological measurement",6
+"polyarticular juvenile idiopathic arthritis, rheumatoid factor negative","EFO_1002020: http://www.ebi.ac.uk/efo/EFO_1002020","Immune system disorder",1
+"polycythemia vera","EFO_0002429: http://www.ebi.ac.uk/efo/EFO_0002429","CancerImmune system disorder",1
+"polymyalgia rheumatica","EFO_0008518: http://www.ebi.ac.uk/efo/EFO_0008518","Other disease",3
+"polyomavirus 2 seropositivity","EFO_0010907: http://www.ebi.ac.uk/efo/EFO_0010907","Other measurement",1
+"polyp of rectum","MONDO_0021398: http://purl.obolibrary.org/obo/MONDO_0021398","Digestive system disorder",2
+"polyunsaturated fatty acid measurement","EFO_0010733: http://www.ebi.ac.uk/efo/EFO_0010733","Lipid or lipoprotein measurement",5
+"porphyrin metabolism disease","MONDO_0037821: http://purl.obolibrary.org/obo/MONDO_0037821","Metabolic disorder",1
+"PP interval","EFO_0600085: http://www.ebi.ac.uk/efo/EFO_0600085","Cardiovascular measurement",2
+"PR interval","EFO_0004462: http://www.ebi.ac.uk/efo/EFO_0004462","Cardiovascular measurement",7
+preeclampsia,"EFO_0000668: http://www.ebi.ac.uk/efo/EFO_0000668","Cardiovascular disease",2
+"presubiculum volume","EFO_0009400: http://www.ebi.ac.uk/efo/EFO_0009400","Other measurement",12
+"proinsulin measurement","EFO_0010814: http://www.ebi.ac.uk/efo/EFO_0010814","Other measurement",1
+"prolapse of female genital organ","MONDO_0001592: http://purl.obolibrary.org/obo/MONDO_0001592","Other disease",2
+"prostate adenocarcinoma","EFO_0000673: http://www.ebi.ac.uk/efo/EFO_0000673",Cancer,1
+"prostate cancer","MONDO_0008315: http://purl.obolibrary.org/obo/MONDO_0008315",Cancer,2
+"prostate carcinoma","EFO_0001663: http://www.ebi.ac.uk/efo/EFO_0001663",Cancer,63
+"prostate disease","EFO_0009602: http://www.ebi.ac.uk/efo/EFO_0009602","Other disease",1
+"prostate specific antigen measurement","EFO_0004624: http://www.ebi.ac.uk/efo/EFO_0004624","Other measurement",2
+psoriasis,"EFO_0000676: http://www.ebi.ac.uk/efo/EFO_0000676","Immune system disorder",13
+"psoriatic arthritis","EFO_0003778: http://www.ebi.ac.uk/efo/EFO_0003778","Immune system disorder",4
+"pulmonary embolism","EFO_0003827: http://www.ebi.ac.uk/efo/EFO_0003827","Cardiovascular disease",5
+"pulmonary fibrosis","EFO_0009448: http://www.ebi.ac.uk/efo/EFO_0009448",Cancer,1
+"pulse pressure measurement","EFO_0005763: http://www.ebi.ac.uk/efo/EFO_0005763","Cardiovascular measurement",1
+"putamen volume","EFO_0006932: http://www.ebi.ac.uk/efo/EFO_0006932","Other measurement",2
+"QRS duration","EFO_0005055: http://www.ebi.ac.uk/efo/EFO_0005055","Cardiovascular measurement",5
+"QT interval","EFO_0004682: http://www.ebi.ac.uk/efo/EFO_0004682","Cardiovascular measurement",10
+"radius fracture","EFO_0003957: http://www.ebi.ac.uk/efo/EFO_0003957","Other disease",1
+"reactive arthritis","EFO_0007460: http://www.ebi.ac.uk/efo/EFO_0007460","Immune system disorder",1
+"rectosigmoid junction neoplasm","MONDO_0002423: http://purl.obolibrary.org/obo/MONDO_0002423","CancerDigestive system disorder",2
+"rectum cancer","EFO_1000657: http://www.ebi.ac.uk/efo/EFO_1000657","CancerDigestive system disorder",2
+recurrent,"EFO_0010246: http://www.ebi.ac.uk/efo/EFO_0010246","Other trait",1
+"Red cell distribution width","EFO_0009188: http://www.ebi.ac.uk/efo/EFO_0009188","Hematological measurement",13
+"refractive error measurement","EFO_0007814: http://www.ebi.ac.uk/efo/EFO_0007814","Other measurement",3
+"REM sleep behavior disorder","EFO_0007462: http://www.ebi.ac.uk/efo/EFO_0007462","Neurological disorder",1
+"renal carcinoma","EFO_0002890: http://www.ebi.ac.uk/efo/EFO_0002890",Cancer,3
+"renal cell carcinoma","EFO_0000681: http://www.ebi.ac.uk/efo/EFO_0000681",Cancer,2
+"reproductive behaviour measurement","EFO_0007862: http://www.ebi.ac.uk/efo/EFO_0007862","Other measurement",8
+"respiratory system cancer","MONDO_0000376: http://purl.obolibrary.org/obo/MONDO_0000376",Cancer,1
+"respiratory system disease","EFO_0000684: http://www.ebi.ac.uk/efo/EFO_0000684","Other disease",8
+"respiratory tract infectious disorder","MONDO_0024355: http://purl.obolibrary.org/obo/MONDO_0024355","Other disease",1
+"response to beta blocker","EFO_0007766: http://www.ebi.ac.uk/efo/EFO_0007766","Biological process",1
+"response to bronchodilator","GO_0097366: http://purl.obolibrary.org/obo/GO_0097366","Biological process",1
+"response to radiation","GO_0009314: http://purl.obolibrary.org/obo/GO_0009314","Biological process",1
+"response to statin","GO_0036273: http://purl.obolibrary.org/obo/GO_0036273","Biological process",1
+"resting heart rate","EFO_0004351: http://www.ebi.ac.uk/efo/EFO_0004351","Cardiovascular measurement",1
+"reticulocyte count","EFO_0007986: http://www.ebi.ac.uk/efo/EFO_0007986","Hematological measurement",22
+"reticulocyte measurement","EFO_0010700: http://www.ebi.ac.uk/efo/EFO_0010700","Hematological measurement",6
+"retinal break","EFO_0010698: http://www.ebi.ac.uk/efo/EFO_0010698","Neurological disorder",1
+"retinal detachment","EFO_0005773: http://www.ebi.ac.uk/efo/EFO_0005773","Neurological disorder",4
+retinopathy,"EFO_0003839: http://www.ebi.ac.uk/efo/EFO_0003839","Neurological disorder",2
+"Rh isoimmunization","EFO_1001159: http://www.ebi.ac.uk/efo/EFO_1001159","Other disease",2
+"rheumatoid arthritis","EFO_0000685: http://www.ebi.ac.uk/efo/EFO_0000685","Immune system disorder",8
+"rheumatoid factor measurement","EFO_0005767: http://www.ebi.ac.uk/efo/EFO_0005767","Other measurement",1
+"risk-taking behaviour","EFO_0008579: http://www.ebi.ac.uk/efo/EFO_0008579","Biological process",3
+"RR interval","EFO_0004831: http://www.ebi.ac.uk/efo/EFO_0004831","Cardiovascular measurement",2
+sarcoidosis,"MONDO_0019338: http://purl.obolibrary.org/obo/MONDO_0019338","Other disease",2
+schizophrenia,"MONDO_0005090: http://purl.obolibrary.org/obo/MONDO_0005090","Neurological disorder",5
+"seasonal allergic rhinitis","EFO_0003956: http://www.ebi.ac.uk/efo/EFO_0003956","Immune system disorder",1
+"seborrheic keratosis","EFO_0005584: http://www.ebi.ac.uk/efo/EFO_0005584","Other disease",2
+"seeing a general practitioner for nerves, anxiety, tension or depression, self-reported","EFO_0009820: http://www.ebi.ac.uk/efo/EFO_0009820","Other trait",3
+"seeing a psychiatrist for nerves, anxiety, tension or depression, self-reported","EFO_0009821: http://www.ebi.ac.uk/efo/EFO_0009821","Other trait",2
+"Self-injurious behavior","HP_0100716: http://purl.obolibrary.org/obo/HP_0100716","Other trait",1
+"self-reported trait","EFO_0009799: http://www.ebi.ac.uk/efo/EFO_0009799","Other trait",5
+"serum alanine aminotransferase measurement","EFO_0004735: http://www.ebi.ac.uk/efo/EFO_0004735","Liver enzyme measurement",8
+"serum albumin measurement","EFO_0004535: http://www.ebi.ac.uk/efo/EFO_0004535","Other measurement",3
+"serum gamma-glutamyl transferase measurement","EFO_0004532: http://www.ebi.ac.uk/efo/EFO_0004532","Liver enzyme measurement",6
+"serum IgE measurement","EFO_0004579: http://www.ebi.ac.uk/efo/EFO_0004579","Other measurement",1
+"serum non-albumin protein measurement","EFO_0004568: http://www.ebi.ac.uk/efo/EFO_0004568","Other measurement",1
+"serum urea measurement","EFO_0009795: http://www.ebi.ac.uk/efo/EFO_0009795","Other measurement",1
+"sex hormone-binding globulin measurement","EFO_0004696: http://www.ebi.ac.uk/efo/EFO_0004696","Other measurement",4
+"sitting height measurement","EFO_0011011: http://www.ebi.ac.uk/efo/EFO_0011011","Other measurement",4
+"Sjogren syndrome","EFO_0000699: http://www.ebi.ac.uk/efo/EFO_0000699","Digestive system disorderImmune system disorder",1
+"skin aging","EFO_0005422: http://www.ebi.ac.uk/efo/EFO_0005422","Biological process",1
+"skin aging measurement","EFO_0008006: http://www.ebi.ac.uk/efo/EFO_0008006","Other measurement",2
+"skin cancer","MONDO_0002898: http://purl.obolibrary.org/obo/MONDO_0002898",Cancer,12
+"skin carcinoma","EFO_0009259: http://www.ebi.ac.uk/efo/EFO_0009259",Cancer,13
+"skin carcinoma in situ","MONDO_0004641: http://purl.obolibrary.org/obo/MONDO_0004641",Cancer,3
+"skin disease","EFO_0000701: http://www.ebi.ac.uk/efo/EFO_0000701","Other disease",8
+"skin pigmentation","EFO_0003784: http://www.ebi.ac.uk/efo/EFO_0003784","Other trait",2
+"skin sarcoidosis","EFO_1000767: http://www.ebi.ac.uk/efo/EFO_1000767","Other disease",2
+"sleep apnea","EFO_0003877: http://www.ebi.ac.uk/efo/EFO_0003877","Neurological disorder",15
+"Sleep Disorder","EFO_0008568: http://www.ebi.ac.uk/efo/EFO_0008568","Neurological disorder",1
+"sleep duration","EFO_0005271: http://www.ebi.ac.uk/efo/EFO_0005271","Other measurement",5
+"smoking behaviour measurement","EFO_0005671: http://www.ebi.ac.uk/efo/EFO_0005671","Other measurement",3
+"smoking cessation","EFO_0004319: http://www.ebi.ac.uk/efo/EFO_0004319","Biological process",5
+"smoking initiation","EFO_0005670: http://www.ebi.ac.uk/efo/EFO_0005670","Biological process",5
+"smoking status measurement","EFO_0006527: http://www.ebi.ac.uk/efo/EFO_0006527","Other measurement",39
+"snoring measurement","EFO_0008341: http://www.ebi.ac.uk/efo/EFO_0008341","Other measurement",3
+"social interaction measurement","EFO_0009592: http://www.ebi.ac.uk/efo/EFO_0009592","Other measurement",3
+"sodium measurement","EFO_0009282: http://www.ebi.ac.uk/efo/EFO_0009282","Other measurement",3
+spondyloarthropathy,"EFO_0000706: http://www.ebi.ac.uk/efo/EFO_0000706","Immune system disorder",1
+"squamous cell carcinoma","EFO_0000707: http://www.ebi.ac.uk/efo/EFO_0000707",Cancer,11
+"squamous cell lung carcinoma","EFO_0000708: http://www.ebi.ac.uk/efo/EFO_0000708",Cancer,1
+stroke,"EFO_0000712: http://www.ebi.ac.uk/efo/EFO_0000712","Cardiovascular diseaseNeurological disorder",10
+"subiculum volume","EFO_0009399: http://www.ebi.ac.uk/efo/EFO_0009399","Other measurement",12
+"substance-related disorder","MONDO_0002494: http://purl.obolibrary.org/obo/MONDO_0002494","Other disease",1
+"sugar consumption measurement","EFO_0010158: http://www.ebi.ac.uk/efo/EFO_0010158","Biological process",1
+"sun exposure measurement","EFO_0010729: http://www.ebi.ac.uk/efo/EFO_0010729","Other measurement",5
+sunburn,"EFO_0003958: http://www.ebi.ac.uk/efo/EFO_0003958","Other disease",1
+suntan,"EFO_0004279: http://www.ebi.ac.uk/efo/EFO_0004279","Other trait",14
+"superior frontal gyrus grey matter volume measurement","EFO_0006516: http://www.ebi.ac.uk/efo/EFO_0006516","Other measurement",2
+"systemic lupus erythematosus","MONDO_0007915: http://purl.obolibrary.org/obo/MONDO_0007915","Immune system disorder",10
+"systemic scleroderma","EFO_0000717: http://www.ebi.ac.uk/efo/EFO_0000717","Immune system disorder",1
+"systolic blood pressure","EFO_0006335: http://www.ebi.ac.uk/efo/EFO_0006335","Other measurement",49
+"tea consumption measurement","EFO_0010091: http://www.ebi.ac.uk/efo/EFO_0010091","Other measurement",1
+"testicular carcinoma","EFO_0005088: http://www.ebi.ac.uk/efo/EFO_0005088",Cancer,13
+"Testicular Germ Cell Tumor","EFO_1000566: http://www.ebi.ac.uk/efo/EFO_1000566",Cancer,2
+"testicular neoplasm","EFO_0004281: http://www.ebi.ac.uk/efo/EFO_0004281","Other disease",1
+"testosterone measurement","EFO_0004908: http://www.ebi.ac.uk/efo/EFO_0004908","Lipid or lipoprotein measurement",10
+"thalamus volume","EFO_0006935: http://www.ebi.ac.uk/efo/EFO_0006935","Other measurement",2
+Thrombophlebitis,"HP_0004418: http://purl.obolibrary.org/obo/HP_0004418","Other trait",3
+"thrombotic disease","MONDO_0000831: http://purl.obolibrary.org/obo/MONDO_0000831","Cardiovascular disease",2
+"thyroid carcinoma","EFO_0002892: http://www.ebi.ac.uk/efo/EFO_0002892",Cancer,25
+"thyroid disease","EFO_1000627: http://www.ebi.ac.uk/efo/EFO_1000627","Other disease",8
+"Thyroid preparation use measurement","EFO_0009933: http://www.ebi.ac.uk/efo/EFO_0009933","Other measurement",1
+Thyrotoxicosis,"EFO_0009190: http://www.ebi.ac.uk/efo/EFO_0009190","Immune system disorder",4
+"time spent outdoors measurement","EFO_0600081: http://www.ebi.ac.uk/efo/EFO_0600081","Other measurement",2
+Tinnitus,"HP_0000360: http://purl.obolibrary.org/obo/HP_0000360","Other trait",1
+"tiredness measurement","EFO_0007946: http://www.ebi.ac.uk/efo/EFO_0007946","Other measurement",1
+"tobacco smoke exposure measurement","EFO_0009115: http://www.ebi.ac.uk/efo/EFO_0009115","Other measurement",2
+"tongue neoplasm","EFO_0003871: http://www.ebi.ac.uk/efo/EFO_0003871","CancerDigestive system disorder",1
+"total blood protein measurement","EFO_0004536: http://www.ebi.ac.uk/efo/EFO_0004536","Hematological measurement",3
+"total cholesterol measurement","EFO_0004574: http://www.ebi.ac.uk/efo/EFO_0004574","Lipid or lipoprotein measurement",50
+"total hip arthroplasty","EFO_0009806: http://www.ebi.ac.uk/efo/EFO_0009806","Other trait",1
+"total knee arthroplasty","EFO_0020975: http://www.ebi.ac.uk/efo/EFO_0020975","Other trait",1
+"tracheal cancer","MONDO_0001407: http://purl.obolibrary.org/obo/MONDO_0001407",Cancer,10
+"trauma exposure measurement","EFO_0010703: http://www.ebi.ac.uk/efo/EFO_0010703","Other measurement",1
+"triglyceride measurement","EFO_0004530: http://www.ebi.ac.uk/efo/EFO_0004530","Lipid or lipoprotein measurement",52
+"triple-negative breast cancer","EFO_0005537: http://www.ebi.ac.uk/efo/EFO_0005537",Cancer,1
+"type 1 diabetes mellitus","MONDO_0005147: http://purl.obolibrary.org/obo/MONDO_0005147","Digestive system disorderImmune system disorderMetabolic disorder",12
+"type 2 diabetes mellitus","MONDO_0005148: http://purl.obolibrary.org/obo/MONDO_0005148","Digestive system disorderMetabolic disorder",102
+"ulcerative colitis","EFO_0000729: http://www.ebi.ac.uk/efo/EFO_0000729","Digestive system disorderImmune system disorder",4
+"unipolar depression","EFO_0003761: http://www.ebi.ac.uk/efo/EFO_0003761","Neurological disorder",2
+"upper extremity fracture","EFO_0009514: http://www.ebi.ac.uk/efo/EFO_0009514","Other disease",1
+"urate measurement","EFO_0004531: http://www.ebi.ac.uk/efo/EFO_0004531","Other measurement",5
+"urea measurement","EFO_0011005: http://www.ebi.ac.uk/efo/EFO_0011005","Other measurement",3
+ureterolithiasis,"EFO_1001228: http://www.ebi.ac.uk/efo/EFO_1001228","Other disease",1
+"uric acid measurement","EFO_0004761: http://www.ebi.ac.uk/efo/EFO_0004761","Cardiovascular measurement",2
+"urinary albumin to creatinine ratio","EFO_0007778: http://www.ebi.ac.uk/efo/EFO_0007778","Other measurement",3
+"urinary bladder cancer","MONDO_0001187: http://purl.obolibrary.org/obo/MONDO_0001187",Cancer,1
+"urinary bladder carcinoma","MONDO_0004986: http://purl.obolibrary.org/obo/MONDO_0004986",Cancer,17
+"urinary metabolite measurement","EFO_0005116: http://www.ebi.ac.uk/efo/EFO_0005116","Other measurement",1
+"urinary microalbumin measurement","EFO_0010967: http://www.ebi.ac.uk/efo/EFO_0010967","Other measurement",4
+"urinary potassium measurement","EFO_0010952: http://www.ebi.ac.uk/efo/EFO_0010952","Other measurement",3
+urolithiasis,"MONDO_0024647: http://purl.obolibrary.org/obo/MONDO_0024647","Other disease",2
+"uterine benign neoplasm","MONDO_0000632: http://purl.obolibrary.org/obo/MONDO_0000632",Cancer,2
+"uterine cancer","MONDO_0002715: http://purl.obolibrary.org/obo/MONDO_0002715",Cancer,2
+"uterine carcinoma","EFO_0002919: http://www.ebi.ac.uk/efo/EFO_0002919",Cancer,1
+"uterine corpus cancer","EFO_0007532: http://www.ebi.ac.uk/efo/EFO_0007532",Cancer,1
+"uterine fibroid","EFO_0000731: http://www.ebi.ac.uk/efo/EFO_0000731",Cancer,2
+"Varicella zoster virus seropositivity","EFO_0009340: http://www.ebi.ac.uk/efo/EFO_0009340","Other measurement",1
+"Varicose veins","HP_0002619: http://purl.obolibrary.org/obo/HP_0002619","Other trait",4
+"vascular dementia","EFO_0004718: http://www.ebi.ac.uk/efo/EFO_0004718","Cardiovascular diseaseNeurological disorder",1
+"vascular disease","EFO_0004264: http://www.ebi.ac.uk/efo/EFO_0004264","Cardiovascular disease",2
+"vasomotor rhinitis","EFO_0007533: http://www.ebi.ac.uk/efo/EFO_0007533","Immune system disorder",1
+"velocity of sound measurement","EFO_0005654: http://www.ebi.ac.uk/efo/EFO_0005654","Other measurement",3
+"venous thromboembolism","EFO_0004286: http://www.ebi.ac.uk/efo/EFO_0004286","Cardiovascular disease",7
+"ventricular rate measurement","EFO_0007928: http://www.ebi.ac.uk/efo/EFO_0007928","Cardiovascular measurement",2
+"vertebral column disorder","MONDO_0000812: http://purl.obolibrary.org/obo/MONDO_0000812","Other disease",1
+"visceral adipose tissue measurement","EFO_0004765: http://www.ebi.ac.uk/efo/EFO_0004765","Other measurement",2
+"visual acuity measurement","EFO_0008385: http://www.ebi.ac.uk/efo/EFO_0008385","Other measurement",4
+"vital capacity","EFO_0004312: http://www.ebi.ac.uk/efo/EFO_0004312","Other measurement",11
+"vitamin B12 deficiency","EFO_0000734: http://www.ebi.ac.uk/efo/EFO_0000734","Metabolic disorder",1
+"vitamin B12 measurement","EFO_0004620: http://www.ebi.ac.uk/efo/EFO_0004620","Other measurement",20
+"vitamin D measurement","EFO_0004631: http://www.ebi.ac.uk/efo/EFO_0004631","Lipid or lipoprotein measurement",43
+"vitamin supplement exposure measurement","EFO_0009116: http://www.ebi.ac.uk/efo/EFO_0009116","Other measurement",2
+Vitiligo,"EFO_0004208: http://www.ebi.ac.uk/efo/EFO_0004208","Immune system disorder",3
+"waist circumference","EFO_0004342: http://www.ebi.ac.uk/efo/EFO_0004342","Body measurement",6
+"waist-hip ratio","EFO_0004343: http://www.ebi.ac.uk/efo/EFO_0004343","Body measurement",10
+"Waldenstrom macroglobulinemia","EFO_0009441: http://www.ebi.ac.uk/efo/EFO_0009441","CancerImmune system disorderMetabolic disorder",1
+"wellbeing measurement","EFO_0007869: http://www.ebi.ac.uk/efo/EFO_0007869","Other measurement",4
+"white matter hyperintensity measurement","EFO_0005665: http://www.ebi.ac.uk/efo/EFO_0005665","Other measurement",1
+"white matter volume measurement","EFO_0008320: http://www.ebi.ac.uk/efo/EFO_0008320","Other measurement",4
+"whole body water mass","EFO_0009805: http://www.ebi.ac.uk/efo/EFO_0009805","Other measurement",5
+"worry measurement","EFO_0009589: http://www.ebi.ac.uk/efo/EFO_0009589","Other measurement",4
